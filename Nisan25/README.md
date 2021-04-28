@@ -148,7 +148,8 @@ N1QL Sorgusu İle Bucket Kontrolünün Sağlanması
 ```
 ## 2.Case
 
-Programın çekirdeği Coucbase REST API'sini kullanarak bulunan GET veya POST isteklerininJSON çıktısını uygun bir şekilde parse ederek "Human Readable" formatta çıktısını sağlamasından oluşmaktadır.
+Programın çekirdeği kullanıcıdan alınan kullanıcı adı ve parola ile Coucbase REST API'sini kullanarak bulunan GET veya POST isteklerinin JSON çıktısını uygun bir şekilde parse ederek "Human Readable" formatta çıktısını sağlamasından oluşmaktadır.
+
 > Program üzerinden özel olarak sorgu yapabilir veya üzerinde hazır bulunan isteklerden birini tercih edebilirsiniz.
 
 ``` python
