@@ -9,6 +9,11 @@
 | Docker Compose      | 1.25.0 |      
 | Python     | v3.0+ |      
 | Docker      | 20.10.2  |      
+| Python - Requests      |  2.25.1  |
+| Python - Pip      |  pip 21.1  |
+
+
+
 
 ### Containers
 
